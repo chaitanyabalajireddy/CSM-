@@ -80,9 +80,9 @@ Ensure the dataset files are formatted in `.csv` and stored in the `data/` direc
 
 - **M Batul Abbas** (SE23MAID010): Contributed to **code development** for implementing ARIMAX and machine learning models like Random Forest AND Ensemble model.  
 - **K Chaitanya Balaji Reddy** (SE23MAID007): Handled **project management, documentation, and analysis**, contributing to the integration and evaluation of all models, including Hybrid Models.  
-- **Suman Tiwari** (SE23MAID016): Contributed to **code development**, working on deep learning model like LSTM , and integrating them into the forecasting pipeline.  
+- **Suman Tiwari** (SE23MAID018): Contributed to **code development**, working on deep learning model like LSTM , and integrating them into the forecasting pipeline.  
 - **A Akhil Sai** (SE23MAID001): Contributed to model development and implementation.  
-- **K Sumedha Reddy** (SE23MAID017): Contributed to data preparation and model training.
+- **K Sumedha Reddy** (SE23MAID019): Contributed to data preparation and model training.
 
 ---
 
